@@ -87,13 +87,45 @@ p {
 }
 
 .container-three {
+    background-color: #E5E7EB;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#author {
+    align-self: flex-end;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+
+
+.notif {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 1rem 5rem;
+}
+
 .container-four {
-    background-color: #E5E7EB;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
