@@ -1,4 +1,4 @@
-# odin-landing-page
+# sample-landing-page
 This is a sample website landing page created with HTML and CSS. 
 
 CSS Flexbox was the main tool of use.
